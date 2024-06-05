@@ -1,0 +1,23 @@
+.color-display{
+  height: 200px;
+  width: 200px;
+  border: none;
+  border-radius: 15px;
+  align-items: center;
+  text-align: center;
+  margin: 20px;
+}
+p{
+  padding-top: 20%;
+  font-size: 25px;
+  color: rgba(202, 253, 255, 0.796);
+}
+.container{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input[type="color"]{
+  border-radius: 5px;
+}
